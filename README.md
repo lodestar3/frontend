@@ -31,10 +31,10 @@ docker-compose up
 - Starting Frontend /フロントエンドの起動
 ```bash
 # Clone the repository
-git clone https://github.com/Jun0908/nextjs-ai-agents
+git clone git@github.com:lodestar3/frontend.git
 
 # Change to the project directory
-cd nextjs-ai-agents
+cd frontend
 
 # Install library
 npm install 

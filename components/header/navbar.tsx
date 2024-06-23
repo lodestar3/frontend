@@ -4,7 +4,7 @@ import NextLink from "next/link";
 
 function Navbar() {
   const flexStyle: React.CSSProperties = {
-    padding: "1.5em 2em",
+    padding: "1.5em 0.5em",
     display: "flex",
     alignItems: "center",
     justifyContent: "space-between",
@@ -18,7 +18,7 @@ function Navbar() {
   };
 
   const textStyle: React.CSSProperties = {
-    marginLeft: "0.75em",
+    marginLeft: "1em",
     fontSize: "1.25em",
     fontWeight: "bold",
   };
@@ -28,11 +28,11 @@ function Navbar() {
     alignItems: "center",
     justifyContent: "space-between",
     flex: 1,
-    marginLeft: "2em",
+    marginLeft: "4em",
   };
 
   const linkStyle: React.CSSProperties = {
-    marginRight: "1em",
+    marginRight: "0.5em",
     textDecoration: "none",
     color: "inherit",
   };
@@ -42,7 +42,7 @@ function Navbar() {
       {/* ロゴ */}
       <div style={boxStyle}>
         <img src="agent-luna.png" alt="Logo" width={50} height={50} />
-        <span style={textStyle}>intelligenceNFTs</span>
+        <span style={textStyle}>iNFTs</span>
       </div>
 
       {/* リンク */}
@@ -51,10 +51,10 @@ function Navbar() {
           <a style={linkStyle}>Demo</a>
         </NextLink>
         <NextLink href="/myAsset" passHref legacyBehavior>
-          <a style={linkStyle}>My Assets</a>
+          <a style={linkStyle}>Assets</a>
         </NextLink>
         <NextLink href="/createNFTs" passHref legacyBehavior>
-          <a style={linkStyle}>Create iNFTs</a>
+          <a style={linkStyle}>Create</a>
         </NextLink>
         <NextLink href="/about" passHref legacyBehavior>
           <a style={linkStyle}>About</a>

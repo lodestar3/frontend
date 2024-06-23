@@ -1,5 +1,8 @@
 'use client';
 
+import Navbar from "@/components/header/navbar"
+
 export default function createNFT() {
-	return <div>createNFT</div>;
+	
+	return <div><Navbar />createNFT</div>;
   }

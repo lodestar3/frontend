@@ -1,5 +1,8 @@
 'use client';
 
+import Navbar from "@/components/header/navbar"
+
 export default function AboutPage() {
-	return <div>About Us</div>;
+	
+	return <div><Navbar />About Us</div>;
   }

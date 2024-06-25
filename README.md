@@ -9,28 +9,33 @@ AI Agentsは、MetaMeプラットフォームにおけるエンゲージメン�
  [Movie in Loom/ 紹介動画 Loom](https://www.loom.com/share/6d470c31cb374f7f94587d5b7be31d77?sid=c83495ec-9e79-43f2-96cd-7337bb9681b0)
   
 ### 🔵 How to excute / 実行方法
-- Get API / APIの取得
+① Get API / APIの取得
 
 .env.sample を .envに書き換えてください
+  ーNEXT_PUBLIC_ALCHEMY_API_KEY
+  https://www.alchemy.com/
   
-  ①OPEN_WEATHER_API_KEY
+  -NEXT_PUBLIC_WEB3_AUTH_CLIENT_ID
+  https://web3auth.io/
+
+  ーOPEN_WEATHER_API_KEY
   [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
   
-  ②OPENAI
+  -OPENAI
   https://platform.openai.com/api-keys
-  
-  ③NEMTUS_PRIVATE_KEY
-  https://zenn.dev/nemtus/articles/blockchain-symbol-react-1st-symbol-sdk
 
-  ④VOICEVOX_URL
+  -CMC_API_KEY
+  https://coinmarketcap.com/api/
+  
+  -VOICEVOX_URL
   http://127.0.0.1:50021
 
-- Starting Docker / Dockerの起動
+② Starting Docker / Dockerの起動
 ```bash
 docker-compose up
 ```
 
-- Starting Frontend /フロントエンドの起動
+③ Starting Frontend /フロントエンドの起動
 ```bash
 # Clone the repository
 git clone git@github.com:lodestar3/frontend.git
@@ -46,3 +51,7 @@ npm run dev
 ```
 
 ### 🔵 Technical Challenges / 技術的挑戦
+
+①ERC6551を用いた
+
+②LLMシステム

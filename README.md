@@ -52,10 +52,10 @@ npm run dev
 
 ERC6551に紐づいたNFTがIPFSの画像データの非暗号化や音声や人格のLLMのAPIのアクセス管理を行い、MetaMaskによりNPCのデータ管理ができる。
 
-<img width="500" alt="スクリーンショット 2024-06-25 11 47 35" src="https://github.com/lodestar3/frontend/assets/31527310/8a5d0bfc-afb5-46de-aa94-f2132965c22e">
+<img width="390" alt="スクリーンショット 2024-06-25 11 47 35" src="https://github.com/lodestar3/frontend/assets/31527310/8a5d0bfc-afb5-46de-aa94-f2132965c22e">
 
 ②LLMを用いた会話システムの構築
 
 LangchainによりAPIの接続やJSONのEmbedding等を行い、NPCの個性を生成する。VoiceBoxによりNPCの音声を選択することができる。
 
-<img width="500" alt="スクリーンショット 2024-06-25 11 50 39" src="https://github.com/lodestar3/frontend/assets/31527310/1261f1ad-8f88-43d4-ac02-75d67a278adb">
+<img width="390" alt="スクリーンショット 2024-06-25 11 50 39" src="https://github.com/lodestar3/frontend/assets/31527310/1261f1ad-8f88-43d4-ac02-75d67a278adb">

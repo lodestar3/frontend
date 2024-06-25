@@ -13,22 +13,21 @@ AI Agentsは、MetaMeプラットフォームにおけるエンゲージメン�
 
 .env.sample を .envに書き換えてください
 
-  -NEXT_PUBLIC_ALCHEMY_API_KEY
-  https://www.alchemy.com/
+  [NEXT_PUBLIC_ALCHEMY_API_KEY](https://www.alchemy.com/)
   
-  -NEXT_PUBLIC_WEB3_AUTH_CLIENT_ID
+  NEXT_PUBLIC_WEB3_AUTH_CLIENT_ID
   https://web3auth.io/
 
-  ーOPEN_WEATHER_API_KEY
+  OPEN_WEATHER_API_KEY
   [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
   
-  -OPENAI
+  OPENAI
   https://platform.openai.com/api-keys
 
-  -CMC_API_KEY
+  CMC_API_KEY
   https://coinmarketcap.com/api/
   
-  -VOICEVOX_URL
+  VOICEVOX_URL
   http://127.0.0.1:50021
 
 ② Starting Docker / Dockerの起動

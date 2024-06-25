@@ -15,17 +15,13 @@ AI Agentsは、MetaMeプラットフォームにおけるエンゲージメン�
 
   [NEXT_PUBLIC_ALCHEMY_API_KEY](https://www.alchemy.com/)
   
-  NEXT_PUBLIC_WEB3_AUTH_CLIENT_ID
-  https://web3auth.io/
+  [NEXT_PUBLIC_WEB3_AUTH_CLIENT_ID](https://web3auth.io/)
 
-  OPEN_WEATHER_API_KEY
-  [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
+  [OPEN_WEATHER_API_KEY](https://hibi-update.org/other/openweathermap-api/)
   
-  OPENAI
-  https://platform.openai.com/api-keys
+  [OPENAI_API_KEY](https://platform.openai.com/api-keys)
 
-  CMC_API_KEY
-  https://coinmarketcap.com/api/
+  [CMC_API_KEY](https://coinmarketcap.com/api/)
   
   VOICEVOX_URL
   http://127.0.0.1:50021

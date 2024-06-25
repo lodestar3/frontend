@@ -13,6 +13,8 @@ AI Agentsは、MetaMeプラットフォームにおけるエンゲージメン�
 
 .env.sample を .envに書き換えてください
 
+下記のリンクからAPIを取得してください
+
   [NEXT_PUBLIC_ALCHEMY_API_KEY](https://www.alchemy.com/)
   
   [NEXT_PUBLIC_WEB3_AUTH_CLIENT_ID](https://web3auth.io/)
@@ -23,8 +25,6 @@ AI Agentsは、MetaMeプラットフォームにおけるエンゲージメン�
 
   [CMC_API_KEY](https://coinmarketcap.com/api/)
   
-  VOICEVOX_URL
-  http://127.0.0.1:50021
 
 ② Starting Docker / Dockerの起動
 ```bash

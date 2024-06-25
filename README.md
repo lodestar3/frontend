@@ -12,7 +12,8 @@ AI Agentsは、MetaMeプラットフォームにおけるエンゲージメン�
 ① Get API / APIの取得
 
 .env.sample を .envに書き換えてください
-  ーNEXT_PUBLIC_ALCHEMY_API_KEY
+
+  -NEXT_PUBLIC_ALCHEMY_API_KEY
   https://www.alchemy.com/
   
   -NEXT_PUBLIC_WEB3_AUTH_CLIENT_ID

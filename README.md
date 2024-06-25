@@ -4,8 +4,6 @@
 
 AI Agentsは、MetaMeプラットフォームにおけるエンゲージメントとコミュニティ活動を活性化するため、高度なAI機能を備えたiNFT（intelligence NFT）を開発します。これにより、メタバース内のインタラクションが豊かになり、ユーザー参加型のコンテンツ生成を促進します。
 
- [Web アプリ](https://aqvn7purek.ap-northeast-1.awsapprunner.com/)
-
  [Movie in Loom/ 紹介動画 Loom](https://www.loom.com/share/6d470c31cb374f7f94587d5b7be31d77?sid=c83495ec-9e79-43f2-96cd-7337bb9681b0)
   
 ### 🔵 How to excute / 実行方法

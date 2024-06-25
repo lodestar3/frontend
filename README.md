@@ -1,4 +1,4 @@
-## WaveHack Global
+## WaveHack Global 2024
 
 ### 📺 Explanation / 説明書き
 
@@ -10,6 +10,8 @@ AI Agentsは、MetaMeプラットフォームにおけるエンゲージメン�
   
 ### 🔵 How to excute / 実行方法
 - Get API / APIの取得
+
+.env.sample を .envに書き換えてください
   
   ①OPEN_WEATHER_API_KEY
   [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
@@ -42,3 +44,5 @@ npm install
 # Start the development server
 npm run dev
 ```
+
+### 🔵 Technical Challenges / 技術的挑戦
